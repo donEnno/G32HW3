@@ -13,4 +13,4 @@ About the files:
 - tsvs.zip contains all the tsv files that hold the attributes for the places
 - Since the final plot is not displayed in the main.ipynb, we uploaded the visualization.png, that shows the plot for task 4
 
-Group members are Michele, Giovanni and Enno.
+Group members are Michele Musacchio, Giovanni Sciocchetti and Enno Belz.
