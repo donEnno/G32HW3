@@ -11,5 +11,6 @@ About the files:
 - places.txt contains the URLs to all of the 7200 places
 - The tfidf.zip is a zipped version of the tfIdf_df used in main.ipynb
 - tsvs.zip contains all the tsv files that hold the attributes for the places
+- Since the final plot is not displayed in the main.ipynb, we uploaded the visualization.png, that shows the plot for task 4
 
 Group members are Michele, Giovanni and Enno.
